@@ -14,8 +14,9 @@
 ## Installation
 
 ```[
-git clone git@github.com/abhishek252003/FEE-final_project.git
-cd pokemon-frontier
+git clone https://github.com/abhishek252003/FEE-final_project.git
+cd pokemon Frontier 
+npm install
 npm run dev
 ```
 
