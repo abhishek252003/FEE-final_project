@@ -29,7 +29,7 @@ export default function Navbar() {
         {/* <NavItem link="/" title="Home" activeItem={activeItem} handleClick={handleItemClick}/> */}
         <a href="https://react-pokemon-tcg-nu.vercel.app/">Pokemon Trading Cards pokedex </a>
         <a href='https://pokemon-memory-game-psi.vercel.app/'>Pokemon Memory Card</a>
-        <a href='#'>Pokemon Card Match</a>
+        <a href='https://pokemon-card-game-eosin.vercel.app'>Pokemon Card Match</a>
          <a href="https://frontier-zeta-six.vercel.app/">Who-s-That-Pokemon</a>
        
 
