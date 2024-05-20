@@ -14,7 +14,7 @@
 ## Installation
 
 ```[
-git clone git@github.com:lavizp/pokemon-guessing-game.git](https://github.com/abhishek252003/FEE-final_project.git)
+git clone git@github.com/abhishek252003/FEE-final_project.git
 cd pokemon-frontier
 npm run dev
 ```
